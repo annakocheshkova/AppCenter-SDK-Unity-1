@@ -3,7 +3,7 @@
 The App Center Unity SDK enables you to use App Center Analytics, Crash and Distribution within your Unity games. 
 
 # Getting Started
-
+ 
 ## 1. Prerequisites
 
 Before you begin, please make sure that your project is set up in Unity 2017.1 or later.
